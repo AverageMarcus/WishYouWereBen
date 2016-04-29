@@ -1,0 +1,39 @@
+.text-center {
+  text-align: center !important;
+}
+
+.max-width-940 {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.relative-container {
+  position: relative;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.selfie {
+  left:0;
+  top:0;
+  max-width: 100%;
+}
+
+.bens img {
+  max-height: 100px;
+}
+
+#shutter, #download {
+  border: 2px solid black;
+  border-radius: 40px;
+  padding: 2px 6px 0px;
+  display: inline-block;
+}
+
+#shutter img, #download img {
+  height: 40px;
+  width: 40px;
+}
